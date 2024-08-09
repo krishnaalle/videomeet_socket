@@ -1,24 +1,16 @@
-# quickmeet
-A video chat/meeting webapp using WebRTC and WebSockets (socket.io). Basically a Google Meet clone + a collaborative whiteboard.
-<br><br>
-<img align="center" src="https://i.imgur.com/FxgApJU.jpg">
+# video meet
 
-<img align="center" src="https://i.imgur.com/tMAaFpF.jpg">
+VideoMeet
+VideoMeet is a video chat and meeting web application built with WebRTC and WebSockets (socket.io). It's designed to be a Google Meet clone with additional features, including a collaborative whiteboard.
+Current Features
+Video Calls: High-quality video meetings.
+Chatbox: Real-time text communication.
+Collaborative Whiteboard: Interactive whiteboard for collaboration.
+Screensharing: Share your screen with other participants.
+Upcoming Features
+List of Attendees: Display participants in the meeting.
+Responsive Front-End for Rooms: Enhance the user interface for different screen sizes.
+Contributions
+Contributions are welcome! Feel free to submit a Pull Request (PR) to improve the project.
 
-<img align="center" src="https://i.imgur.com/YvvA08O.jpg">
-
-## Current Features?
-
-1. Video Calls
-2. Chatbox
-3. Collaborative Whiteboard
-4. Screensharing
-
-## Upcoming Features?
-
-1. List of attendees
-2. Responsive front-end for Rooms
-
-## Contributions?
-
-Feel free to make a PR.
+This format separates the information into clear sections, making it easier to read and understand. It also uses headings and bullet points to organize content effectively.
